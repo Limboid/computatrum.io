@@ -5,7 +5,7 @@ Public site for [computatrum](https://computatrum.io)
 - `/`: home
 - `/learn`: learn about computatrum (docs, videos, tutorials, etc.)
 - `/hub`: social media forum for computatrum pickles, data recordings, natural media recordings, and discussion.  
-- `/zookeeper`: use it to launch your own hosted computatra; no sign in required to access third-party computatra (or any ainimal)
+- `/zookeeper`: use it to launch your own hosted computatra; no sign in required to access third-party computatra (or any ainimal). optimized interface for interacting with computatra.
 - `/auth/*`: sign in, sign up, manage your account, etc.
 - `/api/*`: api for managed computatra
 

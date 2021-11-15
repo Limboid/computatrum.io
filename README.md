@@ -6,7 +6,9 @@ Trainers (that's a new job title) will use this platform to train computatra bre
 
 Very complex model distribution introduces new kinds of security threats. Users who have used a given computatrum image can post comments or recordings of it on the image launcher. This will make it harder to distribute malicious computatra. Maybe I'll also train a computatrum breed that will be able to detect (and maybe block) this malicious type of behavior.
 
-I also am personally interested to see if computatra are at the sci-fi level of intelligence. I will use funds from this website to host an 'independant' compuatrum which is legally an LLC and that manages its own computatra 'children' using the funds I deposit in its bank account. I will treat it like the 'totipotent germline' to develop progressively more intelligent, publically-available, 'general purpose' computatra images. Maybe they'll be tagged by the day of checkpointing: 'gpc-2021-12-01', 'gpc-2021-12-02', etc. Everyone might end up cloning this repository and then finetunning it and making a new tagged branch in the repo. When models start getting huge, I'll have to find non-git approaches to ML version control, but that's a different story.
+I also am personally interested to see if computatra are at the sci-fi level of intelligence. I will use funds from this website to host an 'independant' compuatrum which is legally an LLC and that manages its own computatra 'children' using the funds I deposit in its bank account. I will treat it like the 'totipotent germline' to develop progressively more intelligent, publically-available, 'general purpose' computatra images. Maybe they'll be tagged by the day of checkpointing: 'gpc-2021-12-01', 'gpc-2021-12-02', etc. Everyone might end up cloning this repository and then finetunning it and making a new tagged branch in the repo. 
+
+When models start getting huge, I'll have to find a way to do version control without having to hold the full git trace in your filesystem, but that's a different story. At the least, you'll be able to download the files without git history and then upload and merge them online.
 
 ## Org Purpose
 
